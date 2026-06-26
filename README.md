@@ -38,5 +38,5 @@ Pastikan perangkat Anda sudah terinstal:
 
 ### 1. Kloning Repositori
 ```bash
-git clone [https://github.com/username-kalian/nirmala-waste.git](https://github.com/username-kalian/nirmala-waste.git)
+git clone [https://github.com/username/nirmala-waste.git](https://github.com/username/nirmala-waste.git)
 cd nirmala-waste
