@@ -1,0 +1,176 @@
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T14:51:05.741Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T14:55:36.077Z"}
+{"level":"warn","message":"Brute force attempt detected from IP: ::ffff:127.0.0.1","timestamp":"2026-06-23T14:55:58.160Z"}
+{"level":"warn","message":"Brute force attempt detected from IP: ::ffff:127.0.0.1","timestamp":"2026-06-23T14:55:58.580Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T15:01:26.029Z"}
+{"level":"warn","message":"Login gagal untuk username: ' OR 1=1 --","timestamp":"2026-06-23T15:01:47.663Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T15:07:19.104Z"}
+{"level":"info","message":"User baru terdaftar: tes dengan role Warga","timestamp":"2026-06-23T15:25:49.937Z"}
+{"level":"warn","message":"Login gagal untuk username: nisa","timestamp":"2026-06-23T15:26:55.588Z"}
+{"level":"warn","message":"Brute force attempt detected from IP: ::1","timestamp":"2026-06-23T15:27:02.076Z"}
+{"level":"info","message":"User login sukses: tes","timestamp":"2026-06-23T15:27:34.771Z"}
+{"level":"info","message":"Setoran sampah dicatat oleh user ID: 1","timestamp":"2026-06-23T15:29:56.830Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T15:39:09.605Z"}
+{"level":"info","message":"User login sukses: tes","timestamp":"2026-06-23T15:40:19.528Z"}
+{"level":"error","message":"Error registrasi: Data truncated for column 'role' at row 1","timestamp":"2026-06-23T15:42:42.766Z"}
+{"level":"info","message":"User baru terdaftar: admin dengan role Admin","timestamp":"2026-06-23T15:44:21.106Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T15:44:30.681Z"}
+{"level":"error","message":"Error verifikasi admin: Bind parameters must not contain undefined. To pass SQL NULL specify JS null","timestamp":"2026-06-23T15:45:20.797Z"}
+{"level":"info","message":"Transaksi ID 1 di-Approved oleh Admin. Poin ditambahkan.","timestamp":"2026-06-23T15:46:43.433Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T17:03:51.978Z"}
+{"level":"info","message":"User login sukses: tes","timestamp":"2026-06-23T17:12:45.747Z"}
+{"level":"warn","message":"Brute force attempt detected from IP: ::1","timestamp":"2026-06-23T17:13:05.317Z"}
+{"level":"warn","message":"Brute force attempt detected from IP: ::1","timestamp":"2026-06-23T17:13:20.274Z"}
+{"level":"warn","message":"Brute force attempt detected from IP: ::1","timestamp":"2026-06-23T17:13:39.956Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T17:14:16.283Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T17:14:20.220Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T17:16:45.243Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T17:22:52.006Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T17:22:55.739Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T17:24:17.480Z"}
+{"level":"info","message":"User login sukses: tes","timestamp":"2026-06-23T17:26:27.323Z"}
+{"level":"info","message":"Setoran sampah dicatat oleh user ID: 1","timestamp":"2026-06-23T17:26:45.684Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T17:27:20.733Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T17:27:32.593Z"}
+{"level":"info","message":"User login sukses: tes","timestamp":"2026-06-23T17:33:28.384Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T17:33:36.813Z"}
+{"level":"warn","message":"Login gagal untuk username: admin","timestamp":"2026-06-23T17:35:05.234Z"}
+{"level":"warn","message":"Login gagal untuk username: admin","timestamp":"2026-06-23T17:35:11.331Z"}
+{"level":"warn","message":"Brute force attempt detected from IP: ::1","timestamp":"2026-06-23T17:35:13.027Z"}
+{"level":"warn","message":"Login gagal untuk username: admin","timestamp":"2026-06-23T17:39:28.526Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T17:39:37.668Z"}
+{"level":"warn","message":"Login gagal untuk username: admin","timestamp":"2026-06-23T17:39:52.814Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T17:42:59.569Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T17:43:10.232Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T17:44:32.975Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T17:46:56.606Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T17:47:04.252Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T17:53:54.436Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T17:55:40.467Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:14:24.924Z"}
+{"level":"info","message":"User baru terdaftar: warga dengan role Warga","timestamp":"2026-06-23T18:14:52.942Z"}
+{"level":"error","message":"Error registrasi: Bind parameters must not contain undefined. To pass SQL NULL specify JS null","timestamp":"2026-06-23T18:15:01.932Z"}
+{"level":"error","message":"Error registrasi: Bind parameters must not contain undefined. To pass SQL NULL specify JS null","timestamp":"2026-06-23T18:15:44.260Z"}
+{"level":"error","message":"Error registrasi: Bind parameters must not contain undefined. To pass SQL NULL specify JS null","timestamp":"2026-06-23T18:15:45.742Z"}
+{"level":"error","message":"Error registrasi: Bind parameters must not contain undefined. To pass SQL NULL specify JS null","timestamp":"2026-06-23T18:15:47.553Z"}
+{"level":"error","message":"Error registrasi: Bind parameters must not contain undefined. To pass SQL NULL specify JS null","timestamp":"2026-06-23T18:17:53.946Z"}
+{"level":"error","message":"Error registrasi: Bind parameters must not contain undefined. To pass SQL NULL specify JS null","timestamp":"2026-06-23T18:17:56.181Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:18:01.119Z"}
+{"level":"error","message":"Error registrasi: Bind parameters must not contain undefined. To pass SQL NULL specify JS null","timestamp":"2026-06-23T18:18:05.762Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:19:34.558Z"}
+{"level":"error","message":"Error registrasi: Unknown column 'final_nama' in 'field list'","timestamp":"2026-06-23T18:19:36.361Z"}
+{"level":"error","message":"Error registrasi: Unknown column 'final_nama' in 'field list'","timestamp":"2026-06-23T18:19:37.621Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:21:12.867Z"}
+{"level":"error","message":"Error registrasi: Duplicate entry 'warga' for key 'users.username'","timestamp":"2026-06-23T18:21:20.541Z"}
+{"level":"error","message":"Error registrasi: Duplicate entry 'warga' for key 'users.username'","timestamp":"2026-06-23T18:22:11.089Z"}
+{"level":"error","message":"Error registrasi: Duplicate entry 'warga' for key 'users.username'","timestamp":"2026-06-23T18:22:52.347Z"}
+{"level":"error","message":"Error registrasi: Duplicate entry 'warga' for key 'users.username'","timestamp":"2026-06-23T18:22:54.727Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:22:58.297Z"}
+{"level":"error","message":"Error registrasi: Duplicate entry 'warga' for key 'users.username'","timestamp":"2026-06-23T18:22:59.848Z"}
+{"level":"error","message":"Error registrasi: Duplicate entry 'warga' for key 'users.username'","timestamp":"2026-06-23T18:23:01.432Z"}
+{"level":"error","message":"Error registrasi: Duplicate entry 'warga' for key 'users.username'","timestamp":"2026-06-23T18:23:02.663Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-23T18:24:12.721Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T18:28:19.343Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:28:31.519Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T18:29:42.901Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-23T18:30:14.706Z"}
+{"level":"info","message":"Setoran sampah dicatat oleh user ID: 3","timestamp":"2026-06-23T18:30:28.701Z"}
+{"level":"warn","message":"Brute force attempt detected from IP: ::1","timestamp":"2026-06-23T18:30:38.148Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T18:30:47.324Z"}
+{"level":"info","message":"Transaksi ID 3 di-Approved oleh Admin. Poin ditambahkan.","timestamp":"2026-06-23T18:30:51.108Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-23T18:31:05.984Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:36:13.617Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-23T18:36:19.822Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-23T18:36:36.167Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:40:02.018Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-23T18:43:13.600Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:43:25.463Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:45:03.887Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-23T18:45:16.735Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:47:10.626Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-23T18:47:20.513Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-23T18:48:02.105Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:49:13.046Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-23T18:49:20.761Z"}
+{"level":"error","message":"Error saat ambil profil: db is not defined","timestamp":"2026-06-23T18:49:20.790Z"}
+{"level":"error","message":"Error saat ambil profil: db is not defined","timestamp":"2026-06-23T18:49:20.795Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-23T18:50:23.436Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-23T18:50:35.396Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T07:52:49.069Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-25T07:53:41.195Z"}
+{"level":"error","message":"Error saat ambil profil: db is not defined","timestamp":"2026-06-25T07:53:41.241Z"}
+{"level":"error","message":"Error saat ambil profil: db is not defined","timestamp":"2026-06-25T07:53:41.245Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T07:56:18.987Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-25T07:56:26.643Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-25T07:57:13.340Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:27:22.770Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:29:32.057Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:29:59.007Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:32:34.636Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-25T08:32:48.729Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-25T08:32:58.652Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:34:47.202Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:35:31.036Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-25T08:36:43.926Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-25T08:36:54.060Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:43:14.831Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-25T08:44:33.934Z"}
+{"level":"error","message":"Gagal memproses setoran sampah: uuidv4 is not defined","timestamp":"2026-06-25T08:44:46.302Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:47:46.654Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-25T08:47:56.440Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-25T08:48:04.524Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-25T08:48:06.770Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:49:54.705Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:50:38.077Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-25T08:50:40.409Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-25T08:50:41.450Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:50:47.295Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-25T08:50:53.542Z"}
+{"level":"error","message":"Gagal memproses setoran sampah: path is not defined","timestamp":"2026-06-25T08:51:01.209Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan di port 3000","timestamp":"2026-06-25T08:52:04.958Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-25T08:52:14.387Z"}
+{"level":"info","message":"Setoran sampah dicatat oleh user ID: 3","timestamp":"2026-06-25T08:52:22.504Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-25T08:52:42.535Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T06:03:20.913Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:04:51.637Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:05:01.338Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T06:05:16.532Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:05:19.820Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:05:21.187Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:05:26.517Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:08:14.673Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:08:16.329Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:08:17.125Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T06:08:22.961Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:08:24.932Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:08:26.211Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T06:13:25.690Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:15:39.665Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T06:22:49.261Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:23:02.902Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T06:24:43.858Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-26T06:24:50.586Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-26T06:25:23.811Z"}
+{"level":"info","message":"Setoran sampah dicatat oleh user ID: 3","timestamp":"2026-06-26T06:27:44.867Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-26T06:28:05.496Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T06:33:06.345Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T06:36:19.048Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:36:27.400Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:36:42.551Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T06:36:44.710Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T06:39:19.638Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-26T06:39:25.691Z"}
+{"level":"info","message":"User login sukses: warga","timestamp":"2026-06-26T07:00:02.348Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-26T07:01:50.535Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T07:06:38.501Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T07:07:22.895Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T07:09:44.979Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-26T07:09:50.332Z"}
+{"level":"info","message":"Nirmala Waste Platform berjalan dengan HTTPS/TLS di port 3000","timestamp":"2026-06-26T07:15:04.568Z"}
+{"level":"info","message":"User login sukses: admin","timestamp":"2026-06-26T07:15:10.059Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T07:25:53.143Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T07:25:58.018Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T07:26:02.735Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T07:26:03.451Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T07:26:03.623Z"}
+{"level":"warn","message":"Blokir CSRF aktif untuk IP: ::1","timestamp":"2026-06-26T07:26:03.856Z"}
